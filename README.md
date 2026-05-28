@@ -79,7 +79,9 @@ project_root/
 # System Architecture 
 
 ### System-Level Overview of the Proposed Gesture-Based Drone Swarm Interaction
-![System Architecture](figures/SystemLevelOverview_HSI.PNG)
+<p align="center">
+  <img src="figures/SystemLevelOverview_HSI.PNG)" width="600"/>
+</p>
 
 **Figure .** System-level overview of the proposed gesture-based drone swarm interaction framework.
 

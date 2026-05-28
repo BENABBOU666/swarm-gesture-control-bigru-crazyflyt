@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Gesture-Based Swarm Formation Control Using Artificial Potential Fields"
+
+authors:
+  - family-names: Benabbou
+    given-names: Fatna B. E.
+
+version: "1.0.0"
+
+date-released: 2026-05-28
+
+repository-code: "https://github.com/BENABBOU666/swarm-gesture-control-bigru-crazyflyt"
+
+url: "https://github.com/BENABBOU666/swarm-gesture-control-bigru-crazyflyt"
+
+license: "MIT"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Benabbou
+      given-names: Fatna B. E.
+  title: "Gesture-Based Swarm Formation Control Using Artificial Potential Fields"
+  journal: "Robotica"
+  year: 2026
+  status: "in preparation"
+
+keywords:
+  - swarm robotics
+  - formation control
+  - artificial potential field
+  - gesture recognition
+  - multi-agent systems
+  - CrazyFlyt simulator
+
+abstract: >
+  This repository provides a complete framework for gesture-based swarm formation control using
+  artificial potential fields. It integrates a deep learning-based gesture recognition system,
+  a formation control module, and evaluation tools for robustness analysis under noise and faulty
+  agent conditions using the CrazyFlyt simulator.

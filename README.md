@@ -80,7 +80,7 @@ project_root/
 
 ### System-Level Overview of the Proposed Gesture-Based Drone Swarm Interaction
 <p align="center">
-  <img src="figures/SystemLevelOverview_HSI.PNG)" width="600"/>
+  <img src="figures/SystemLevelOverview_HSI.PNG)" />
 </p>
 
 **Figure .** System-level overview of the proposed gesture-based drone swarm interaction framework.

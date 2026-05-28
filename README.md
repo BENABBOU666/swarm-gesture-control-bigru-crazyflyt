@@ -452,12 +452,12 @@ If this repository contributes to your research, please cite:
 
 ```bibtex
 @software{benabbou2026,
-  author       = {Benabbou, Fatna B. E.},
+  author       = {BENABBOU, F.B.E. , BENSLIMANE, S.M. , KHALDI, B.},
   title        = {Gesture-Based Swarm Formation/Flight Control Using CrazyFLyt Simulator},
   year         = {2026},
   version      = {1.0},
   publisher    = {GitHub},
-  url          = {https://github.com/BENABBOU666/REPOSITORY_NAME}
+  url          = {https://github.com/BENABBOU666/swarm-gesture-control-bigru-crazyflyt}
 }
 ```
 
@@ -465,6 +465,6 @@ If this repository contributes to your research, please cite:
 
 # Author
 
-**BENABBOU F.B.E**
+**BENABBOU F.B.E , BENSLIMANE S , KHALDI B**
 ---
 

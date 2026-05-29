@@ -64,9 +64,7 @@ project_root/
 │      ├── analysis.py
 │      └── visualise.py
 │
-│
 ├── simulation_videos/
-│   └── simulation_videos/
 │
 ├── requirements.txt
 ├── LICENSE
